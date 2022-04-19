@@ -2,6 +2,7 @@
 
 # Overview
 
+The purpose of thius module is to perform statistical tests using the R programming language in order to make AutosRus manufecturing process better. Statistics and hypothesis testing was applied to analyze a series of datasets from the automotive industry.
 
 # Resources
 
